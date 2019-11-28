@@ -1,0 +1,10 @@
+C:\Users\ar00090132\source\repos\DetenerCustom1\DetenerCustom1\bin\Debug\DetenerCustom1.exe.config
+C:\Users\ar00090132\source\repos\DetenerCustom1\DetenerCustom1\bin\Debug\DetenerCustom1.exe
+C:\Users\ar00090132\source\repos\DetenerCustom1\DetenerCustom1\bin\Debug\DetenerCustom1.pdb
+C:\Users\ar00090132\source\repos\DetenerCustom1\DetenerCustom1\obj\Debug\DetenerCustom1.csprojAssemblyReference.cache
+C:\Users\ar00090132\source\repos\DetenerCustom1\DetenerCustom1\obj\Debug\DetenerCustom1.Form1.resources
+C:\Users\ar00090132\source\repos\DetenerCustom1\DetenerCustom1\obj\Debug\DetenerCustom1.Properties.Resources.resources
+C:\Users\ar00090132\source\repos\DetenerCustom1\DetenerCustom1\obj\Debug\DetenerCustom1.csproj.GenerateResource.cache
+C:\Users\ar00090132\source\repos\DetenerCustom1\DetenerCustom1\obj\Debug\DetenerCustom1.csproj.CoreCompileInputs.cache
+C:\Users\ar00090132\source\repos\DetenerCustom1\DetenerCustom1\obj\Debug\DetenerCustom1.exe
+C:\Users\ar00090132\source\repos\DetenerCustom1\DetenerCustom1\obj\Debug\DetenerCustom1.pdb
